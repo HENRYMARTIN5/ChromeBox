@@ -4,6 +4,7 @@ A simple toolbox for your school Chromebook.
 ### Features
  - (Private) web browser
  - Functional Discord app
+ - Revolt.chat Intergration
 
 More coming Soon™!
 
